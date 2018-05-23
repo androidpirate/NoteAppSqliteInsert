@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteAppSqliteInsert</string>
+    <string name="lore_ipsum_text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla " +
+            "pellentesque cursus neque ut blandit. Suspendisse elit mi, fringilla vestibulum dictum blandit," +
+            " vehicula at metus. Quisque pretium, enim non ultrices lobortis, metus mauris imperdiet nulla, " +
+            "id tincidunt tortor enim ac lectus. Vestibulum eu egestas augue, ut malesuada nunc. " +
+            "Aliquam blandit bibendum eros ac dapibus. "</string>
+    <string name="new_note">NEW NOTE</string>
+    <string name="title_hint">Enter title here.</string>
+    <string name="description_hint">Enter body here.</string>
+    <string name="save_note">SAVE</string>
+    <string name="empty_list_message">Your list is empty, click to add notes.</string>
+</resources>
